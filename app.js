@@ -1,0 +1,1 @@
+KAIDEN.Game.start();
